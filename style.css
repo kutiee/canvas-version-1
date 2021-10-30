@@ -24,6 +24,5 @@ table {
   border-spacing: 0;
 }
 #canvas {
-  height: 100vh;
-  border: 1px solid red;
+  display: block;
 }
